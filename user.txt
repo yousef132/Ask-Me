@@ -1,0 +1,14 @@
+1,yousif,12,NO
+2,tarek,88,YES
+4,khalid,**##,NO
+5,cat,dog,-1,Ahmed,0100,YES
+1,usef,123,YES
+1,ahmedassssem66677,ahmedassssem66677,YES
+1,abdallah,123,YES
+1,ali,222,YES
+1,abdallahmostafa,666666,NO
+1,amr khaled,0amD05,NO
+1,ammar,123456,YES
+1,yousef,8888,YES
+1,ahmed,0000,NO
+1,mahmoud,8,YES
