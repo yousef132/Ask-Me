@@ -14,6 +14,7 @@ namespace project
 {
     public partial class deletquestion : Form
     {
+        //You have to change the path of the 2 files with the files path in your pc
         private static string qspath = @"D:\project\question.txt";
         public deletquestion()
         {
